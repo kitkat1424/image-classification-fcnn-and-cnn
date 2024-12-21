@@ -1,7 +1,6 @@
 # Solution Notebook
 
-This repository contains the Jupyter Notebook `Solution.ipynb`, which provides an implementation and analysis for the tasks mentioned in the file 'Assignment-5'.
-The graded assignment was part of the course IC-272 (Data Science - III). 
+This repository contains the Jupyter Notebook `Solution.ipynb`, which is an implementation of an image classifier. It identifies input images and divides them into 3 categgories: a plane, a car, or a bird. The model is implemented using a) FCNN and b) CNN.
 
 Below is a detailed overview of the notebook and its components.
 
